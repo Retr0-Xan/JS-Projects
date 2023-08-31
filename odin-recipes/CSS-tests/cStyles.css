@@ -1,0 +1,12 @@
+.alert-message.notifications {
+    color: red;
+}
+
+
+.notifications {
+    color: yellow;
+}
+
+.warning {
+    color: palevioletred;
+}

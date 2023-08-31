@@ -1,0 +1,19 @@
+.list {
+    font-family: sans-serif;
+    font-size: 50px;
+    width: fit-content;
+    right: 100px;
+}
+
+
+h1 {
+    background-color: antiquewhite;
+    text-align: center;
+    font-weight: 1000;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+body {
+    background-color: antiquewhite;
+}
